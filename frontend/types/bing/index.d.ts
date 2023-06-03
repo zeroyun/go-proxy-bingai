@@ -135,7 +135,7 @@ declare const CIB: {
     version: string;
   };
   /**
-   * 整个必应聊天 cib-serp
+   * 整个GPT聊天 cib-serp
    */
   vm: {
     errorService: {
