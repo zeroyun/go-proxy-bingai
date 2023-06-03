@@ -24,17 +24,17 @@ const initPwaOptions = (env: Record<string, string>) => {
       theme_color: '#ffffff',
       icons: [
         {
-          src: './img/pwa/logo-192.png',
+          src: './img/logo.svg',
           sizes: '192x192',
           type: 'image/png',
         },
         {
-          src: './img/pwa/logo-512.png',
+          src: './img/logo.svg',
           sizes: '512x512',
           type: 'image/png',
         },
         {
-          src: './img/pwa/logo-512.png',
+          src: './img/logo.svg',
           sizes: '512x512',
           type: 'image/png',
           purpose: 'any maskable',
